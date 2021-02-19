@@ -1,0 +1,37 @@
+<layouttype>thumbnail</layouttype>
+
+<channels> 
+<channel> 
+<name>[B]Telewizja[/B]</name> 
+<thumbnail>https://www.nicepng.com/png/detail/127-1274516_flat-panel-tv-comments-tv-icon-black-png.png</thumbnail> 
+<externallink>	</externallink> 
+<fanart>https://www.clipartkey.com/mpngs/m/155-1556005_television-png-transparent-images-transparent-background-tv-icon.png</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Seriale[/B]</name> 
+<thumbnail>	</thumbnail> 
+<externallink>	</externallink> 
+<fanart>	</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Filmy[/B]</name> 
+<thumbnail>https://cdn6.aptoide.com/imgs/a/2/e/a2e029f02cf392896ee3348fc744a41d_icon.png</thumbnail> 
+<externallink>	</externallink> 
+<fanart>https://i.ytimg.com/vi/Y2-GYeVedEc/maxresdefault_live.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Dla Dzieci[/B]</name> 
+<thumbnail>https://comps.canstockphoto.pl/symbol-dzieci-icon-dziecko-rysunek-wektory-eps_csp48782489.jpg</thumbnail> 
+<externallink>	</externallink> 
+<fanart>https://static9.depositphotos.com/1426074/1076/v/950/depositphotos_10761974-stock-illustration-children-watching-tv.jpg</fanart> 
+<info></info> 
+</channel>
